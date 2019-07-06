@@ -1,2 +1,2 @@
 ## todosample.html
-Vueを使ったToDoリスト
+Vue.jsを使ったToDoリスト
